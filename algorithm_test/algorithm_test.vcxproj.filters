@@ -18,5 +18,8 @@
     <ClCompile Include="algorithm_test.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="사탕_박사_고창영.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
