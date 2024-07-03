@@ -13,15 +13,21 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="코드 모음">
+      <UniqueIdentifier>{0f2924ee-e291-4c46-9188-6dc61e3cbf6a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="algorithm_test.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="a_to_b.cpp">
+      <Filter>코드 모음</Filter>
     </ClCompile>
     <ClCompile Include="사탕_박사_고창영.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>코드 모음</Filter>
     </ClCompile>
-    <ClCompile Include="a_to_b.cpp">
+    <ClCompile Include="algorithm_test.cpp">
+      <Filter>코드 모음</Filter>
+    </ClCompile>
+    <ClCompile Include="색_채우기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

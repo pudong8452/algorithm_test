@@ -130,6 +130,7 @@
     <ClCompile Include="a_to_b.cpp" />
     <ClCompile Include="algorithm_test.cpp" />
     <ClCompile Include="사탕_박사_고창영.cpp" />
+    <ClCompile Include="색_채우기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
