@@ -1,4 +1,4 @@
-//// [백준] 16953번 : A → B [C/C++]
+// [백준] 16953번 : a → b [c/c++]
 //#include <iostream>
 //#include <string>
 //
@@ -6,28 +6,28 @@
 //
 //int main()
 //{
-//    string A, B;
+//    string a, b;
 //    int count = 1;
-//    cin >> A >> B;
+//    cin >> a >> b;
 //
 //    while (1) {
-//        if (A == B) {
+//        if (a == b) {
 //            cout << count;
 //            break;
 //        }
-//        else if (stoi(A) > stoi(B)) {
+//        else if (stoi(a) > stoi(b)) {
 //            cout << -1;
 //            break;
 //        }
 //        else {
-//            if (B[B.size() - 1] == '1') {
-//                B.pop_back();
+//            if (b[b.size() - 1] == '1') {
+//                b.pop_back();
 //                count++;
 //            }
 //            else {
-//                int temp = stoi(B);
+//                int temp = stoi(b);
 //                if (temp % 2 == 0) {
-//                    B = to_string(temp / 2);
+//                    b = to_string(temp / 2);
 //                    count++;
 //                }
 //                else {

@@ -128,7 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="a_to_b.cpp" />
-    <ClCompile Include="algorithm_test.cpp" />
+    <ClCompile Include="트리와_커리.cpp" />
+    <ClCompile Include="화분_부수기.cpp" />
     <ClCompile Include="사탕_박사_고창영.cpp" />
     <ClCompile Include="색_채우기.cpp" />
   </ItemGroup>

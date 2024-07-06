@@ -1,3 +1,4 @@
+// [백준] 2508번 : 사탕 박사 고창영 [c/c++]
 //#include <iostream>
 //
 //using namespace std;

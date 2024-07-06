@@ -24,11 +24,14 @@
     <ClCompile Include="사탕_박사_고창영.cpp">
       <Filter>코드 모음</Filter>
     </ClCompile>
-    <ClCompile Include="algorithm_test.cpp">
+    <ClCompile Include="화분_부수기.cpp">
       <Filter>코드 모음</Filter>
     </ClCompile>
     <ClCompile Include="색_채우기.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>코드 모음</Filter>
+    </ClCompile>
+    <ClCompile Include="트리와_커리.cpp">
+      <Filter>코드 모음</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
